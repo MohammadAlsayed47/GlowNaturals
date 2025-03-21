@@ -296,6 +296,28 @@ span {
     color: rgba(91, 89, 88, 0.936);
 }
 
+.map-section {
+    padding: 50px 20px;
+    background-image: linear-gradient(to bottom, rgb(255, 185, 231), white);
+    text-align: center;
+}
+
+.map-header {
+    font-family: 'Ms Madi', cursive;
+    font-size: 50px;
+    color: rgba(91, 89, 88, 0.936);
+    margin-bottom: 20px;
+}
+
+.map-container {
+    width: 100%;
+    max-width: 800px; /* Adjust width as needed */
+    margin: 0 auto;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 10px 10px 20px 1px #777;
+}
+
 footer {
     padding: 30px 10px;
     background-color: rgb(255, 188, 227);
