@@ -226,6 +226,15 @@ span {
     background-image: url("../css/1-5.jpg");
 }
 
+.creation-1,
+.creation-2,
+.creation-3,
+.creation-4 {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .featured-creation {
     padding: 50px 0;
     background-color: rgba(255, 255, 255, 0.8); 
